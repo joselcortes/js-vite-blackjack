@@ -11,3 +11,9 @@ Pasos para ejecutar el proyecto
 
 1. Ejecutar ``npm run build``
 2. Tomar la carpeta ``dist`` y desplegarla
+
+###Actualizar
+
+1. Ejecutar ``git add .``
+2. Ejecutar ``git commit -m "nombre actualizacion"``
+3. Ejecutar ``git push``
